@@ -7,7 +7,7 @@ Repositório destinado à pesquisa histórica das versões do Microsoft Windows,
 
 | Versão | Ano | Principal Novidade | Curiosidade |
 | :--- | :---: | :--- | :--- |
-| **Windows 1.0** | 1985 | Interface gráfica sobre o MS-DOS. | O nome original do projeto era "Interface Manager". |
+| **Windows 1.0** | 1985 | Interface gráfica sobre o MS-DOS. | O nome original do projeto era "Interface Manager". | https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6d04f739-7d1a-4aa2-b20d-b9142f3a9dc6/dgmjzqz-eef7c3d7-6361-4f8f-b6ee-56c2d5f52753.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82ZDA0ZjczOS03ZDFhLTRhYTItYjIwZC1iOTE0MmYzYTlkYzYvZGdtanpxei1lZWY3YzNkNy02MzYxLTRmOGYtYjZlZS01NmMyZDVmNTI3NTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gPlE1urvecYHW5wSqoHJEGjhV0iabfpteJYxDqE5Gsw
 | **Windows 2.0**| 1987 | Possibilidade de sobrepor janelas. | Gerou um processo judicial da Apple por copiar elementos do Macintosh. |
 | **Windows 3.x** | 1990 | Gerenciador de Programas e suporte a 256 cores. | Foi a versão que popularizou o jogo *Paciência* para ensinar o uso do mouse. |
 | **Windows 95** | 1995 | Menu Iniciar e Barra de Tarefas. | A Microsoft pagou milhões para usar a música "Start Me Up" dos Rolling Stones no comercial. |
